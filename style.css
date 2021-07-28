@@ -1,0 +1,16 @@
+body{
+    color: aqua;
+    background: blueviolet;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.name_of_objects, #result_object_name{
+    color: crimson;
+}
+#camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 360px;
+}
